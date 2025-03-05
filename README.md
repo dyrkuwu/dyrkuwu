@@ -1,6 +1,6 @@
-hi my names ley/dyrk and i do soft ware
+hi my names ley/dyrk and im a self taught dev
 
-i like c python and rust
+i code in a multitude of languages like c, java, rust and more
  
 rn im working on [remnant.wtf](https://remnant.wtf/)!
 
